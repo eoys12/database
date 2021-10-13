@@ -1,39 +1,39 @@
 {
   "soil": [{
-      "sequence_no": 8496,
-      "light_reading": 300
+      "x": 8496,
+      "y": 300
     },
     {
-      "sequence_no": 8497,
-      "light_reading": 335
+      "x": 8497,
+      "y": 335
     },
     {
-      "sequence_no": 8498,
-      "light_reading": 355
+      "x": 8498,
+      "y": 355
     },
     {
-      "sequence_no": 8499,
-      "light_reading": 332
+      "x": 8499,
+      "y": 332
     },
     {
-      "sequence_no": 8500,
-      "light_reading": 378
+      "x": 8500,
+      "y": 378
     },
     {
-      "sequence_no": 8501,
-      "light_reading": 394
+      "x": 8501,
+      "y": 394
     },
     {
-      "sequence_no": 8502,
-      "light_reading": 362
+      "x": 8502,
+      "y": 362
     },
     {
-      "sequence_no": 8503,
-      "light_reading": 396
+      "x": 8503,
+      "y": 396
     },
     {
-      "sequence_no": 8504,
-      "light_reading": 475
+      "x": 8504,
+      "y": 475
     }
   ]
 }
